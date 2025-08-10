@@ -1,1 +1,0 @@
-# projeto_ia_deteccao_produtos
